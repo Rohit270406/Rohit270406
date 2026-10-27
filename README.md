@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rohit Roy</h1>
-<h3 align="center">A passionate Backend Developer & Competitive Programmer from India 🇮🇳</h3>
+<h3 align="center">A passionate Backend Developer & Competitive Programmer from India </h3>
 
 <p align="center">
   <a href="https://github.com/Rohit270406">
