@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit270406&theme=radical" alt="Rohit's GitHub Streak" />
 </p>
-
+<p align="center"><img src="https://raw.githubusercontent.com/Rohit270406/Rohit270406/output/github-snake-dark.svg" alt="Snake animation" /></p>
 ---
 
 ### 📫 Connect with me
