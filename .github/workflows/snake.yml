@@ -14,7 +14,7 @@ jobs:
           github_user_name: Rohit270406
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=magenta
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=cyan
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push to output branch
