@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently contributing to Open Source (GSSoC '26) and actively preparing for **GSoC '27** with organizations like AOSSIE.
+- 🔭 Currently contributing to Open Source (GSSoC '26) and actively preparing for **GSoC '27**.
 - 🌱 Deep diving into **Backend Development (Node.js/Express/MongoDB)** and conquering Advanced Data Structures & Algorithms.
 - 🎓 Pursuing B.Tech in **Computer Science and Engineering** at IIIT Ranchi (2029).
 - ⚡ Competitive Programming enthusiast (C++) actively participating on Codeforces, CodeChef, and LeetCode.
